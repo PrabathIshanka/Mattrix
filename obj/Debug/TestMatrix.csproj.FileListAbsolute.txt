@@ -1,0 +1,6 @@
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestMatrix\TestMatrix\bin\Debug\TestMatrix.exe
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestMatrix\TestMatrix\bin\Debug\TestMatrix.pdb
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestMatrix\TestMatrix\bin\Debug\SAPBusinessOneSDK.dll
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestMatrix\TestMatrix\obj\Debug\TestMatrix.csprojResolveAssemblyReference.cache
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestMatrix\TestMatrix\obj\Debug\TestMatrix.exe
+c:\users\pbssdev03\documents\visual studio 2015\Projects\TestMatrix\TestMatrix\obj\Debug\TestMatrix.pdb
